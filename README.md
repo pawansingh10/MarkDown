@@ -1,4 +1,4 @@
-# MarkDown
+# Markdown File
 Brief Understanding of Markdown file which is of extention `.md` file.
 Super Easy way to write/style text on web
 
